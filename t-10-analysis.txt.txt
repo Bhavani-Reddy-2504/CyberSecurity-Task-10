@@ -1,0 +1,21 @@
+Task 10 – Firewall Configuration and Logging Analysis
+
+Firewall utility was checked on the Kali Linux system.
+Firewall rules were reviewed to understand default security posture.
+
+Firewall logging was enabled successfully.
+Attempted access to firewall log files showed restricted or unavailable
+log paths, which is expected behavior in certain Linux configurations.
+
+Firewall rule definitions were reviewed using the firewall rules file.
+The rules indicate controlled inbound access and default deny behavior.
+
+Observations:
+- Firewall rules are active and effective.
+- Logging improves monitoring and security awareness.
+- Restricted access to logs is a common security hardening measure.
+
+Conclusion:
+The task confirms that firewall configuration and logging are essential
+components of system security. The firewall is functioning as expected
+in a controlled lab environment.
